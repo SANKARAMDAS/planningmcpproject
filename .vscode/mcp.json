@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"my-mcp-server-ec82c376": {
+			"url": "https://planningmcpproject.das95sankaram.workers.dev/sse",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
